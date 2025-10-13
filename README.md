@@ -1,3 +1,4 @@
 # systra-map-resources
-Map resources created by SYSTRA Ltd for free use on Map Applications
+
+Map resources collated for free use on map applications by SYSTRA Ltd.
 
