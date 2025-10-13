@@ -1,0 +1,2 @@
+# systra-map-resources
+SYSTRA
